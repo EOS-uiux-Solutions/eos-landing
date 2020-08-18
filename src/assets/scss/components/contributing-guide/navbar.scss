@@ -1,0 +1,18 @@
+.nav-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  margin-top: 1vh;
+
+  img {
+    height: 40px;
+  }
+
+  div {
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+  }
+}

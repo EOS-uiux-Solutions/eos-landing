@@ -1,0 +1,34 @@
+// =====================
+//      Imports
+// =====================
+
+
+
+// ======================
+//      Variables
+// ======================
+$subheading-color: #1A2A3A;
+
+
+// ======================
+//      Stylesheet
+// ======================
+.subheading-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+
+  p {
+    color: $subheading-color;
+    max-width: 800px;
+    padding: 0px 10px;
+    text-align: center;
+  }
+}
+
+
+// ========================
+//      Media queries
+// ========================
+
+

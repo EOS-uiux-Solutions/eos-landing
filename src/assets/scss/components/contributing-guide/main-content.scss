@@ -1,0 +1,112 @@
+// =====================
+//      Imports
+// =====================
+
+
+
+// ======================
+//      Variables
+// ======================
+$main-content-header-font-size:  3vw;
+
+// ======================
+//      Stylesheet
+// ======================
+
+// a. Main content wrapper
+
+.main-content-wrapper {
+  margin-bottom: 100px;
+  margin-left: 8vw;
+  margin-right: 8vw;
+  position: relative;
+
+  .divider {
+    left: 50%;
+    position: absolute;
+    top: 40px;
+  }
+}
+
+
+// b. main content card
+
+.content-card {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
+  width: 100%;
+
+  .card-block {
+    max-width: 40%;
+  }
+
+  img {
+    height: 15vw;
+  }
+
+  .card-text {
+
+    h1 {
+      font-size: $main-content-header-font-size;
+    }
+  }
+}
+
+.left {
+  flex-direction: row;
+
+}
+
+.right {
+  flex-direction: row-reverse;
+
+  .card-block {
+    max-width: 35%;
+  }
+
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  width: 30%;
+}
+
+// ========================
+//      Media queries
+// ========================
+
+
+@media(max-width: 550px) {
+  .content-card {
+    flex-direction: column-reverse;
+    margin-top: 80px;
+
+    .card-block {
+      min-width: 100%;
+    }
+
+    .card-text {
+
+      h1 {
+        font-size: 5vw;
+      }
+
+      p {
+        text-align: justify;
+      }
+    }
+
+    img {
+      margin-bottom: 10px;
+    }
+  }
+}
+
+@media (max-width: 855px) {
+  .divider {
+    display: none;
+  }
+}
