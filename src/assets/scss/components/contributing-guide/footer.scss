@@ -1,0 +1,49 @@
+// =====================
+//      Imports
+// =====================
+
+
+
+// ======================
+//      Variables
+// ======================
+$footer-color: #008ACF;
+$footer-background-color: #EEEFF1;
+// ======================
+//      Stylesheet
+// ======================
+
+.footer-wrapper {
+  background-color: $footer-background-color;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+
+
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    min-width: 600px;
+    width: 50%;
+
+    a {
+      color: $footer-color;
+    }
+  }
+}
+
+// ========================
+//      Media queries
+// ========================
+
+
+@media(max-width: 610px) {
+  .footer-wrapper {
+
+    .footer {
+      align-items: center;
+      flex-direction: column;
+      min-width: 200px;
+    }
+  }
+}

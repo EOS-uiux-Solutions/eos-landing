@@ -1,0 +1,87 @@
+// =====================
+//      Imports
+// =====================
+
+
+
+// ======================
+//      Variables
+// ======================
+
+$header-fontsize: 3vw;
+$header-fontsize-mobile: 6vw;
+
+
+// ======================
+//      Stylesheet
+// ======================
+
+.header-wrapper {
+  margin-left: 4vw;
+  margin-right: 4vw;
+  margin-top: 30px;
+
+  .header {
+    background-color: #EEEFF1;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+    padding: 8vh 4vw;
+    padding-right: 8vw;
+
+    .header-content {
+      max-width: 55%;
+      padding-top: 5vh;
+
+      h1 {
+        font-size: $header-fontsize;
+        font-weight: 800;
+        margin-bottom: 0px;
+      }
+
+      p {
+        margin-top: 5px;
+      }
+    }
+
+    .header-image-wrapper {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      width: 40%;
+
+      img {
+        height: 15vw;
+        max-height: 200px;
+        min-height: 100px;
+      }
+    }
+  }
+}
+
+// ========================
+//      Media queries
+// ========================
+
+@media (max-width: 730px) {
+  .header-wrapper {
+
+    .header {
+      align-items: center;
+      flex-direction: column-reverse;
+      padding: 8vw;
+
+      .header-content {
+        max-width: 100%;
+
+        h1 {
+          font-size: $header-fontsize-mobile;
+        }
+      }
+
+      .header-image-wrapper {
+        width: 80%;
+      }
+    }
+  }
+}
