@@ -29,7 +29,7 @@
       color: $body-text;
       font-weight: bold;
 
-      &.active {
+      &.selected {
         color: $link-active-color;
       }
     }

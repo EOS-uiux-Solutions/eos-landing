@@ -1,20 +1,34 @@
 import React from 'react'
 
-const MeinMenu = () => {
+const MeinMenu = (props) => {
+  const scroll = (event) => {
+    const removeActive = document.querySelector(`.selected`)
+    removeActive.classList.remove('selected')
+    event.target.classList.add('selected')
+  }
+
   return (
     <aside className='main-menu'>
       <ul className='menu'>
         <li>
-          <a href='#logo'>Logo</a>
+          <a href='#logo' className='selected' onClick={scroll}>
+            Logo
+          </a>
         </li>
         <li>
-          <a href='#palette'>Palette</a>
+          <a href='#palette' onClick={scroll}>
+            Palette
+          </a>
         </li>
         <li>
-          <a href='#typography'>Typography</a>
+          <a href='#typography' onClick={scroll}>
+            Typography
+          </a>
         </li>
         <li>
-          <a href='#illustrations'>Patterns and illustrations</a>
+          <a href='#illustrations' onClick={scroll}>
+            Patterns and illustrations
+          </a>
         </li>
       </ul>
     </aside>
