@@ -1,6 +1,7 @@
 header {
   align-items: center;
   background: $white;
+  border-bottom: 1px solid $gray-100;
   display: flex;
   position: sticky;
   top: 0;
@@ -21,15 +22,15 @@ header {
       color: $body-text;
       font-weight: $font-weight-roboto-bold;
     }
-
   }
 
   nav {
-    margin-left: 32px;
+    margin-left: 24px;
 
     a,
     a:visited {
       color: $body-text;
+      margin: 0 8px;
       padding: 13px 8px;
       text-decoration: none;
     }
