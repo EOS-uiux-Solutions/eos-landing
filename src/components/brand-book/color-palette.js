@@ -4,7 +4,7 @@ import ColorBox from '../../components/color-box'
 const ColorPaletteComponent = () => {
   return (
     <div id='palette' className='section-container color-palette'>
-      <div className='section-intro flex'>
+      <div className='section-intro flex-reverse'>
         <div className='description'>
           <h1 className='custom-underline'>Color palette</h1>
 

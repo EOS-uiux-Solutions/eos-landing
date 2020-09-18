@@ -3,7 +3,7 @@ import React from 'react'
 const IllustrationsPatternsComponent = () => {
   return (
     <div id='illustrations' className='section-container'>
-      <div className='section-intro flex'>
+      <div className='section-intro flex-reverse'>
         <div className='description'>
           <h1 className='custom-underline'>PATTERNS AND ILLUSTRATIONS</h1>
           <p>

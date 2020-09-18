@@ -324,6 +324,11 @@
     .description {
       width: 100%;
     }
+
+    &.flex-reverse {
+      display: flex;
+      flex-direction: column-reverse;
+    }
   }
 
   .logo-download {
@@ -350,6 +355,7 @@
 
   .font-example {
     width: 100%;
+    word-break: break-all;
   }
 
   .hierarchy-dont li,

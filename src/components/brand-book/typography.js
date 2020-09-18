@@ -3,7 +3,7 @@ import React from 'react'
 const TypographyComponent = () => {
   return (
     <div id='typography' className='section-container'>
-      <div className='section-intro'>
+      <div className='section-intro flex-reverse'>
         <div className='description'>
           <h1 className='custom-underline'>TYPOGRAPHY</h1>
           <p>
