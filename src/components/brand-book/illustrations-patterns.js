@@ -70,7 +70,7 @@ const IllustrationsPatternsComponent = () => {
             the main pieces.
           </li>
         </ul>
-        <div clas sName='img-wrap'>
+        <div className='img-wrap'>
           <img
             src={require(`../../assets/images/brand_assets/create-illustrations.svg`)}
             alt='LogoDesign'
