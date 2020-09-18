@@ -1,5 +1,5 @@
-@import './reset';
 @import './variables/index';
+@import './reset';
 @import './base/index';
 @import './layout/index';
 
@@ -9,4 +9,4 @@
 
 /* Pages
   ========================================================================== */
-// @import './pages/index';
+@import './pages/index';

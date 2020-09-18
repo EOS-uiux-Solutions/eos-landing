@@ -1,0 +1,57 @@
+header {
+  align-items: center;
+  background: $white;
+  display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+
+  .brand {
+    box-sizing: border-box;
+    padding: 16px 16px 16px 32px;
+    width: 250px;
+
+    .logo {
+      margin-right: $m;
+      vertical-align: top;
+      width: 55px;
+    }
+
+    .brand-text {
+      color: $body-text;
+      font-weight: $font-weight-roboto-bold;
+    }
+
+  }
+
+  nav {
+    margin-left: 32px;
+
+    a,
+    a:visited {
+      color: $body-text;
+      padding: 13px 8px;
+      text-decoration: none;
+    }
+
+    .active {
+      border-bottom: 5px solid $link-active-color;
+    }
+  }
+}
+
+@media screen and (max-width: 770px) {
+  header {
+    display: block;
+
+    .brand {
+      border-bottom: 1px solid $gray-100;
+      width: 100%;
+    }
+
+    nav {
+      background-color: $white;
+      display: flex;
+    }
+  }
+}

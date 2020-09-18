@@ -1,8 +1,8 @@
 import React from 'react'
-import ContributingGuide from './pages/contributing-guide'
+import BrandBook from './pages/brand-book'
 
 function App() {
-  return <ContributingGuide />
+  return <BrandBook />
 }
 
 export default App

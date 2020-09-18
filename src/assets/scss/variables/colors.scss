@@ -6,13 +6,21 @@ $silk: rgba(255, 223, 209, 1);
 $melon: rgba(255, 196, 183, 1);
 
 /* base colors*/
+$primary-blue: #00CCD1;
+$primary-red: #EF0B1E;
+$primary-dark-gray: #1A2A3A;
+$primary-light-gray: #BFC0C1;
 
-$body-text: #071013;
+$body-text: #000000;
 $link-color: #23B5D3;
+$link-active-color: $primary-red;
 
 $primary-color: $melon;
+
+$primary-blue: #00CCD1;
 
 // shades of gray
 $gray-1000: #071013;
 $gray-50: #f7f7f7;
+$gray-100: #EEEFF1;
 $white: white;

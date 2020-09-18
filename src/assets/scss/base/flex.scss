@@ -1,4 +1,4 @@
-.flex {
+  .flex {
   align-content: stretch;
   align-items: stretch;
   display: flex;
@@ -19,5 +19,11 @@
 
   &.flex-wrap {
     flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 1119px) {
+  .flex {
+    display: grid;
   }
 }
