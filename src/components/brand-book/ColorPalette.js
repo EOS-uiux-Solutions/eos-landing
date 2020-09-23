@@ -1,5 +1,5 @@
 import React from 'react'
-import ColorBox from '../../components/color-box'
+import ColorBox from '../../components/ColorBox'
 
 const ColorPaletteComponent = () => {
   return (

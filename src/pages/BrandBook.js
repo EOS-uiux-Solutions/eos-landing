@@ -2,11 +2,11 @@ import React from 'react'
 import Navigation from '../components/Navigation'
 import MeinMenu from '../components/MeinMenu'
 
-import LogoComponent from '../components/brand-book/logo'
-import ColorPaletteComponent from '../components/brand-book/color-palette'
-import TypographyComponent from '../components/brand-book/typography'
-import IllustrationsPatternsComponent from '../components/brand-book/illustrations-patterns'
-import FooterComponent from '../components/brand-book/footer'
+import LogoComponent from '../components/brand-book/Logo'
+import ColorPaletteComponent from '../components/brand-book/ColorPalette'
+import TypographyComponent from '../components/brand-book/Typography'
+import IllustrationsPatternsComponent from '../components/brand-book/IllustrationsPatterns'
+import FooterComponent from '../components/brand-book/Footer'
 
 const BrandBook = () => {
   return (

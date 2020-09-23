@@ -1,7 +1,7 @@
 import React from 'react'
 import { Router } from '@reach/router'
-import BrandBook from './pages/brand-book'
-import ContributingGuide from './pages/contributing-guide'
+import BrandBook from './pages/BrandBook'
+import ContributingGuide from './pages/ContributingGuide'
 
 function App() {
   return (
