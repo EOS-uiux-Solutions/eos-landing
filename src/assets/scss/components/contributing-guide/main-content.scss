@@ -8,12 +8,16 @@
 //      Variables
 // ======================
 $main-content-header-font-size:  3vw;
+$contribute-page: #fff;
 
 // ======================
 //      Stylesheet
 // ======================
 
 // a. Main content wrapper
+.contribute-page {
+  background-color: $contribute-page;
+}
 
 .main-content-wrapper {
   margin-bottom: 100px;
@@ -89,10 +93,6 @@ $main-content-header-font-size:  3vw;
     }
 
     .card-text {
-
-      h1 {
-        font-size: 5vw;
-      }
 
       p {
         text-align: justify;

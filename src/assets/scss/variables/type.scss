@@ -1,9 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,700|Work+Sans:300,400,600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400,700|Work+Sans:300,400,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100,300;800&display=swap');
 
 $font-family: 'Roboto', sans-serif;
 $font-size: 16px;
-$font-weight: 300;
-$line-height: 1.5em;
-$color: $body-text;
+$font-weight-spartan-bold: 800;
+$font-weight-spartan-light: 300;
+$font-weight-roboto-bold: 700;
+$font-weight-roboto-normal: 400;
 
-$font-titles: 'Work Sans', sans-serif;
+$line-height: 1.5em;
+$subheading-line-height: 37px;
+$color: $body-text;
+$font-family-spartan: 'Spartan', sans-serif;

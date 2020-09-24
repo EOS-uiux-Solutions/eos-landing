@@ -1,8 +1,15 @@
 import React from 'react'
-import ContributingGuide from './pages/contributing-guide'
+import { Router } from '@reach/router'
+import BrandBook from './pages/BrandBook'
+import ContributingGuide from './pages/ContributingGuide'
 
 function App() {
-  return <ContributingGuide />
+  return (
+    <Router primary={false}>
+      <BrandBook path='/' />
+      <ContributingGuide path='/ContributingGuide' />
+    </Router>
+  )
 }
 
 export default App

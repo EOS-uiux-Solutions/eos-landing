@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import mainContentData from '../../assets/data/contributing-guide/main-content.data'
-import MainContentCard from '../../components/contributing-guide/main-content-card'
+import mainContentData from '../../assets/data/contributing-guide/MainContent.data'
+import MainContentCard from '../../components/contributing-guide/MainContentCard'
 import Divider from '../../assets/images/divider.svg'
 class MainContent extends Component {
   render() {

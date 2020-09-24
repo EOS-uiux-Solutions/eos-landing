@@ -8,10 +8,16 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
-html {
-  -webkit-text-size-adjust: 100%; /* 2 */
-  line-height: 1.15; /* 1 */
-}
+/**
+ * Variables
+*/
+
+$pre-font-family: monospace, monospace;
+$pre-font-size: 1em;
+$small-font-size: 80%;
+$sup-font-size: 75%;
+$textarea-font-size: 100%;
+
 
 /* Sections
    ========================================================================== */
@@ -38,7 +44,7 @@ main {
  */
 
 h1 {
-  font-size: 2em;
+  font-size: $h1-font-size;
   margin: 0.67em 0;
 }
 
@@ -62,8 +68,8 @@ hr {
  */
 
 pre {
-  font-family: monospace, monospace; /* 1 */
-  font-size: 1em; /* 2 */
+  font-family: $pre-font-family; /* 1 */
+  font-size: $pre-font-size; /* 2 */
 }
 
 /* Text-level semantics
@@ -93,7 +99,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 /**
@@ -104,8 +110,8 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace; /* 1 */
-  font-size: 1em; /* 2 */
+  font-family: $pre-font-family; /* 1 */
+  font-size: $pre-font-size; /* 2 */
 }
 
 /**
@@ -113,7 +119,7 @@ samp {
  */
 
 small {
-  font-size: 80%;
+  font-size: $small-font-size;
 }
 
 /**
@@ -123,7 +129,7 @@ small {
 
 sub,
 sup {
-  font-size: 75%;
+  font-size: $sup-font-size;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
@@ -162,7 +168,7 @@ optgroup,
 select,
 textarea {
   font-family: inherit; /* 1 */
-  font-size: 100%; /* 1 */
+  font-size: $textarea-font-size; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
 }

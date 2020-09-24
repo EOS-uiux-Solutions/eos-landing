@@ -1,0 +1,37 @@
+.main-menu {
+  background-color: $white;
+  border-right: 0px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  left: 0;
+  max-width: 250px;
+  position: fixed;
+  top: 57px;
+  width: 250px;
+  z-index: 1000;
+
+  @media screen and (max-width: 770px) {
+    display: none;
+  }
+}
+
+.menu {
+  margin-top: 55px;
+  padding-left: 32px;
+
+  li {
+    list-style: none;
+    margin: $m 0;
+
+    a {
+      color: $body-text;
+      font-weight: bold;
+
+      &.selected {
+        color: $link-active-color;
+      }
+    }
+  }
+}
