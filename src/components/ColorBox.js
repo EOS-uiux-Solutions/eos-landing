@@ -1,5 +1,5 @@
 import React from 'react'
-import { primaryColorsList, secondaryColorsList } from '../store/ColorState'
+import { primaryColorsList, secondaryColorsList } from '../store/colorState'
 
 const ColorPalette = ({ type }) => {
   const iconClass = (hex) => {

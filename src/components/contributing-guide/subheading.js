@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../assets/scss/components/contributing-guide/subheading.scss'
+
 const SubHeading = () => {
   return (
     <div className='subheading-wrapper'>
