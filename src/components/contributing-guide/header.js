@@ -1,6 +1,7 @@
 import React from 'react'
 import '../../assets/scss/components/contributing-guide/header.scss'
 import HeaderImage from '../../assets/images/header-image.svg'
+
 const HeaderComponent = () => {
   return (
     <div className='header-wrapper'>
