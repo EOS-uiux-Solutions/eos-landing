@@ -1,6 +1,6 @@
 import React from 'react'
 import Navigation from '../components/Navigation'
-import MeinMenu from '../components/MeinMenu'
+import MainMenu from '../components/MainMenu'
 
 import LogoComponent from '../components/brand-book/Logo'
 import ColorPaletteComponent from '../components/brand-book/ColorPalette'
@@ -12,7 +12,7 @@ const BrandBook = () => {
   return (
     <div>
       <Navigation />
-      <MeinMenu type='myRef' />
+      <MainMenu type='myRef' />
       <div className='content'>
         <div className='section-container'>
           <div className='brand-book-container'>

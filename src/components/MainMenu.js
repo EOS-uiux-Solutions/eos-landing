@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MeinMenu = (props) => {
+const MainMenu = () => {
   const scroll = (event) => {
     const removeActive = document.querySelector(`.selected`)
     removeActive.classList.remove('selected')
@@ -35,4 +35,4 @@ const MeinMenu = (props) => {
   )
 }
 
-export default MeinMenu
+export default MainMenu
