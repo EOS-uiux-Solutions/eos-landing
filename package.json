@@ -1,7 +1,9 @@
 {
   "name": "eos-solutions-react",
   "version": "0.1.0",
-  "private": true,
+  "description": "The main page of EOS UX/UI Solutions.",
+  "private": false,
+  "homepage": "https://brand.eosdesignsystem.com/",
   "dependencies": {
     "@reach/router": "^1.2.1",
     "@testing-library/jest-dom": "^5.5.0",
@@ -56,5 +58,20 @@
     "hooks": {
       "pre-commit": "npm run test:sass && npm run test:js"
     }
+  },
+  "keywords": [
+    "open source",
+    "ux ui",
+    "eos",
+    "user experience"
+  ],
+  "author": "EOS UX/UI Solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/SUSE-UIUX/eos-landing-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:SUSE-UIUX/eos-landing-react.git"
   }
 }
