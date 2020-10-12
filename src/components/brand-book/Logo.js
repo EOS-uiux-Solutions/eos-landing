@@ -29,17 +29,23 @@ const LogoComponent = (scope) => {
       </div>
       <div className='sections-row logo-download flex'>
         <div className='logo-download-box'>
-          <div>
+          <a
+            href='../../assets/images/brand_assets/logo-color-colored.svg'
+            download
+          >
             <img
               src={require(`../../assets/images/brand_assets/eos-logos-sample2.svg`)}
               alt='LogoDesign'
             />
             <br />
             Download color logo
-          </div>
+          </a>
         </div>
         <div className='logo-download-box logo-monochromatic-box'>
-          <div>
+          <a
+            href='../../assets/images/brand_assets/logo-color-white2.svg'
+            download
+          >
             <img
               src={require(`../../assets/images/brand_assets/logo-color-white2.svg`)}
               alt='LogoDesign'
@@ -48,7 +54,7 @@ const LogoComponent = (scope) => {
             Download the
             <br />
             monochromatic logo
-          </div>
+          </a>
         </div>
       </div>
       <div className='sections-row'>
