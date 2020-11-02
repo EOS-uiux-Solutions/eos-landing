@@ -1,0 +1,27 @@
+.vision-content {
+  background-color: $vision-content-bg;
+
+  .main-content-wrapper {
+    margin-top: 100px;
+  }
+
+  .section-intro {
+    margin-top: 100px;
+  }
+}
+
+@media screen and (max-width: 1119px) {
+  .section-intro {
+    display: block;
+    text-align: center;
+  }
+
+  .section-intro.flex-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+
+    .description {
+      width: auto;
+    }
+  }
+}

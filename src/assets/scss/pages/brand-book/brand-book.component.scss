@@ -41,15 +41,15 @@
     width: 45%;
     z-index: -1;
   }
+}
 
-  .section-intro {
-    display: flex;
-    justify-content: space-between;
+.section-intro {
+  display: flex;
+  justify-content: space-between;
 
-    .description {
-      display: inline-block;
-      width: 55%;
-    }
+  .description {
+    display: inline-block;
+    width: 55%;
   }
 }
 

@@ -12,7 +12,7 @@ const IllustrationsPatternsComponent = () => {
             illustration represents real-life or technical concepts. Both
             illustrations and patterns are based on a grid system. Every element
             has to be aligned to the grid. The grid is 25px by 25px, but to
-            express our creativity better we let elements exceed hat size.
+            express our creativity better we let elements exceed that size.
           </p>
         </div>
         <div className='img-wrap'>
@@ -45,7 +45,7 @@ const IllustrationsPatternsComponent = () => {
           <li>
             Use circles and squares to assemble illustrations and patterns.
           </li>
-          <li>All elements need to be aligned to the grid</li>
+          <li>All elements need to be aligned to the grid.</li>
           <li>
             Elements can exceed the 25px by 25px size as long as they fit within
             the grid.

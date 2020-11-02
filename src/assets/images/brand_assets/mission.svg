@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="425" viewBox="0 0 300 425">
+  <g id="Group_63" data-name="Group 63" transform="translate(-125 -1125)">
+    <g id="Group_62" data-name="Group 62">
+      <path id="Path_668" data-name="Path 668" d="M225,1375a50,50,0,0,0,50,50v-50Z" fill="#0aa5a5"/>
+      <path id="Path_669" data-name="Path 669" d="M275,1375v50a50,50,0,0,0,50-50Z" fill="#00ccd1"/>
+    </g>
+    <path id="Path_670" data-name="Path 670" d="M200,1375H125a75,75,0,0,1,75-75Z" fill="#f4455a"/>
+    <path id="Path_671" data-name="Path 671" d="M350,1375h75a75,75,0,0,0-75-75Z" fill="#f4455a"/>
+    <rect id="Rectangle_1994" data-name="Rectangle 1994" width="75" height="175" transform="translate(200 1200)" fill="#eeeff1"/>
+    <rect id="Rectangle_1995" data-name="Rectangle 1995" width="75" height="175" transform="translate(275 1200)" fill="#bfc0c1"/>
+    <path id="Rectangle_1996" data-name="Rectangle 1996" d="M75,0h0a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A75,75,0,0,1,75,0Z" transform="translate(200 1125)" fill="#eeeff1"/>
+    <path id="Rectangle_1997" data-name="Rectangle 1997" d="M0,0H75a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0h0A75,75,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(350 1200) rotate(-180)" fill="#bfc0c1"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="25" cy="25" r="25" transform="translate(250 1175)" fill="#f4455a"/>
+    <line id="Line_75" data-name="Line 75" y2="100" transform="translate(225 1450)" fill="none" stroke="#00ccd1" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_76" data-name="Line 76" y2="100" transform="translate(175 1375)" fill="none" stroke="#00ccd1" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_77" data-name="Line 77" y2="100" transform="translate(275 1425)" fill="none" stroke="#00ccd1" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_78" data-name="Line 78" y2="100" transform="translate(325 1450)" fill="none" stroke="#00ccd1" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_79" data-name="Line 79" y2="100" transform="translate(375 1375)" fill="none" stroke="#00ccd1" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

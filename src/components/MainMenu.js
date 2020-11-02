@@ -6,7 +6,6 @@ const MainMenu = () => {
     removeActive.classList.remove('selected')
     event.target.classList.add('selected')
   }
-
   return (
     <aside className='main-menu'>
       <ul className='menu'>
