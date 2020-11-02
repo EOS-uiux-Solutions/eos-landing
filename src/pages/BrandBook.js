@@ -12,7 +12,7 @@ const BrandBook = () => {
   return (
     <div>
       <Navigation />
-      <MainMenu type='myRef' />
+      <MainMenu />
       <div className='content'>
         <div className='section-container'>
           <div className='brand-book-container'>

@@ -9,12 +9,11 @@ const MainMenu = () => {
 
   const onScroll = (event) => {
     const scrollPos = window.scrollY
-    const topHeight = document.getElementById('logo').offsetHeight
-
     Array.from(document.getElementsByClassName('menu-link')).forEach(function (
       element,
       index
     ) {
+      const topHeight = document.getElementById('logo').offsetHeight
       const elementId = element.getAttribute('href').replace('#', '')
       const refElement = document.getElementById(elementId)
 
@@ -26,12 +25,12 @@ const MainMenu = () => {
       } else {
         element.setAttribute('class', 'menu-link')
       }
+      if (scrollPos > -1 && scrollPos < topHeight) {
+        document
+          .getElementsByClassName('menu-link')[0]
+          .setAttribute('class', 'menu-link selected')
+      }
     })
-    if (scrollPos > -1 && scrollPos < topHeight) {
-      document
-        .getElementsByClassName('menu-link')[0]
-        .setAttribute('class', 'menu-link selected')
-    }
   }
 
   window.onscroll = () => {
