@@ -23,9 +23,9 @@ const Navigation = () => {
         </Link>
       </div>
       <nav>
-        <NavLink to='/'>Home</NavLink>
+        <NavLink to='/'>Vision</NavLink>
+        <NavLink to='/BrandBook'>Brand book</NavLink>
         <NavLink to='/ContributingGuide'>How to contribute</NavLink>
-        <NavLink to='/Vision'>Vision</NavLink>
       </nav>
     </header>
   )

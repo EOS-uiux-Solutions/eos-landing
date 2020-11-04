@@ -7,9 +7,9 @@ import Vision from './pages/Vision'
 function App() {
   return (
     <Router primary={false}>
-      <BrandBook path='/' />
+      <Vision path='/' />
+      <BrandBook path='/BrandBook' />
       <ContributingGuide path='/ContributingGuide' />
-      <Vision path='/Vision' />
     </Router>
   )
 }
