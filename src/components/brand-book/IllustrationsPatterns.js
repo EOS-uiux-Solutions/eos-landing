@@ -79,7 +79,7 @@ const IllustrationsPatternsComponent = () => {
       </div>
       <div className='sections-row'>
         <h2 className='do-not-headeing'>Dont</h2>
-        <div className='logo-example do-not flex'>
+        <div className='do-not flex space-between'>
           <div className='img-wrap'>
             <img
               src={require(`../../assets/images/brand_assets/do-not-illustrations-1.svg`)}

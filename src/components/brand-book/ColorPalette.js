@@ -7,7 +7,6 @@ const ColorPaletteComponent = () => {
       <div className='section-intro flex-reverse'>
         <div className='description'>
           <h1 className='custom-underline'>Color palette</h1>
-
           <p>
             We let our colors speak for us and they say:
             <strong> “We are creative and we like to build”</strong> and

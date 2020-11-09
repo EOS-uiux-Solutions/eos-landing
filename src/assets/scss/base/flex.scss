@@ -20,10 +20,19 @@
   &.flex-wrap {
     flex-wrap: wrap;
   }
+
+  &.space-between {
+    justify-content: space-between;
+  }
 }
+
 
 @media screen and (max-width: 1119px) {
   .flex {
     display: grid;
+
+    &.space-between {
+      justify-content: center;
+    }
   }
 }

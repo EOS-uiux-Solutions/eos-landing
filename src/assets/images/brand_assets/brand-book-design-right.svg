@@ -1,0 +1,46 @@
+<svg id="Group_501" data-name="Group 501" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="275" height="350" viewBox="0 0 275 350">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2294" data-name="Rectangle 2294" width="275" height="350" fill="none"/>
+    </clipPath>
+  </defs>
+  <line id="Line_208" data-name="Line 208" y2="50" transform="translate(225 25)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+  <line id="Line_209" data-name="Line 209" x2="50" transform="translate(200 125)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+  <g id="Group_496" data-name="Group 496">
+    <g id="Group_495" data-name="Group 495" clip-path="url(#clip-path)">
+      <line id="Line_210" data-name="Line 210" y2="75" transform="translate(175)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+      <line id="Line_211" data-name="Line 211" x1="50" transform="translate(0 225)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+    </g>
+  </g>
+  <line id="Line_212" data-name="Line 212" x2="25" transform="translate(225 175)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+  <line id="Line_213" data-name="Line 213" x2="100" transform="translate(25 125)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+  <line id="Line_214" data-name="Line 214" y2="100" transform="translate(150 225)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+  <g id="Group_498" data-name="Group 498">
+    <g id="Group_497" data-name="Group 497" clip-path="url(#clip-path)">
+      <line id="Line_215" data-name="Line 215" x2="250" transform="translate(25 300)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+      <line id="Line_216" data-name="Line 216" x2="75" transform="translate(200 75)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+    </g>
+  </g>
+  <line id="Line_217" data-name="Line 217" x2="0.532" y2="75" transform="translate(74.468 25)" fill="none" stroke="#f4455a" stroke-miterlimit="10" stroke-width="0.65"/>
+  <rect id="Rectangle_2296" data-name="Rectangle 2296" width="75" height="250" transform="translate(75 50)" fill="#ef0b1e"/>
+  <rect id="Rectangle_2297" data-name="Rectangle 2297" width="75" height="250" transform="translate(150 50)" fill="#f4455a"/>
+  <rect id="Rectangle_2298" data-name="Rectangle 2298" width="25" height="25" transform="translate(50 75)" fill="#091d2d"/>
+  <rect id="Rectangle_2299" data-name="Rectangle 2299" width="25" height="50" transform="translate(50 225)" fill="#091d2d"/>
+  <g id="Group_500" data-name="Group 500">
+    <g id="Group_499" data-name="Group 499" clip-path="url(#clip-path)">
+      <path id="Path_1078" data-name="Path 1078" d="M75,300H62.5A12.5,12.5,0,0,1,50,287.5V275H75Z" fill="#091d2d" fill-rule="evenodd"/>
+      <path id="Path_1079" data-name="Path 1079" d="M125,350h0a25,25,0,0,1-25-25h25Z" fill="#00ccd1" fill-rule="evenodd"/>
+      <path id="Path_1080" data-name="Path 1080" d="M75,350h0a25,25,0,0,0,25-25H75Z" fill="#0aa5a5" fill-rule="evenodd"/>
+      <path id="Path_1081" data-name="Path 1081" d="M75,50H62.5A12.5,12.5,0,0,0,50,62.5V75H75Z" fill="#091d2d" fill-rule="evenodd"/>
+      <rect id="Rectangle_2300" data-name="Rectangle 2300" width="25" height="75" transform="translate(50 150)" fill="#1e3b51"/>
+      <rect id="Rectangle_2301" data-name="Rectangle 2301" width="25" height="25" transform="translate(50 125)" fill="#091d2d"/>
+      <rect id="Rectangle_2302" data-name="Rectangle 2302" width="25" height="25" transform="translate(50 100)" fill="#1e3b51"/>
+      <rect id="Rectangle_2303" data-name="Rectangle 2303" width="50" height="25" transform="translate(100 100)" fill="#eeeff1"/>
+      <rect id="Rectangle_2304" data-name="Rectangle 2304" width="50" height="25" transform="translate(150 100)" fill="#fff"/>
+      <rect id="Rectangle_2305" data-name="Rectangle 2305" width="50" height="75" transform="translate(100 150)" fill="#c90a21"/>
+      <rect id="Rectangle_2306" data-name="Rectangle 2306" width="50" height="75" transform="translate(150 150)" fill="#ef0b1e"/>
+      <rect id="Rectangle_2307" data-name="Rectangle 2307" width="25" height="25" transform="translate(75 300)" fill="#0aa5a5"/>
+      <rect id="Rectangle_2308" data-name="Rectangle 2308" width="25" height="25" transform="translate(100 300)" fill="#00ccd1"/>
+    </g>
+  </g>
+</svg>

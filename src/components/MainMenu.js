@@ -47,7 +47,12 @@ const MainMenu = () => {
         </li>
         <li>
           <a href='#palette' className='menu-link' onClick={scroll}>
-            Palette
+            Color palette
+          </a>
+        </li>
+        <li>
+          <a href='#bubbrand' className='menu-link' onClick={scroll}>
+            Sub-brand
           </a>
         </li>
         <li>
