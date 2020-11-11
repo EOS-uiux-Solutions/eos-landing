@@ -1,0 +1,30 @@
+/* Footer */
+.footer {
+  border-top: 1px solid $gray-100;
+}
+
+.footer-links {
+  display: inline-flex;
+  width: 25%;
+
+  p {
+    display: inline-block;
+    font-size: $font-size-body;
+    font-weight: $font-weight-roboto-bold;
+    margin: 0;
+    margin-right: 15px;
+  }
+
+  ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+
+    > li {
+      font-size: $font-size-body;
+      font-weight: $font-weight-roboto-bold;
+      list-style: none;
+      margin-bottom: 5px;
+    }
+  }
+}

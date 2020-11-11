@@ -5,7 +5,7 @@ const SubBrandComponent = (scope) => {
     <div id='bubbrand' className='section-container logo'>
       <div className='section-intro flex-reverse'>
         <div className='description'>
-          <h1 className='custom-underline'>Sub brand</h1>
+          <h1 className='custom-underline'>Sub-brand</h1>
           <p>
             To ensure the consistent visual language of the sub-brand we use the
             same architectural principles as for the main logo. Parent logo is
@@ -15,7 +15,7 @@ const SubBrandComponent = (scope) => {
         </div>
         <div className='img-wrap'>
           <img
-            src={require(`../../assets/images/brand_assets/sub-brand-design.svg`)}
+            src={require(`../../assets/images/brand_assets/sub-brand-design.png`)}
             alt='LogoDesign'
           />
         </div>
@@ -23,7 +23,7 @@ const SubBrandComponent = (scope) => {
       <div className='sections-row'>
         <div className='img-wrap'>
           <img
-            src={require(`../../assets/images/brand_assets/sub-brand-logo.svg`)}
+            src={require(`../../assets/images/brand_assets/sub-brand-logo.png`)}
             alt='LogoDesign'
           />
         </div>
@@ -33,19 +33,19 @@ const SubBrandComponent = (scope) => {
         <div className='flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-1.svg`)}
+              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-1.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-2.svg`)}
+              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-2.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-3.svg`)}
+              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-3.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -53,19 +53,19 @@ const SubBrandComponent = (scope) => {
         <div className='flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-4.svg`)}
+              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-4.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-5.svg`)}
+              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-5.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-6.svg`)}
+              src={require(`../../assets/images/brand_assets/sub-brand-logo-eg-6.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -81,21 +81,21 @@ const SubBrandComponent = (scope) => {
         <div className='flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/user-story-visual.svg`)}
+              src={require(`../../assets/images/brand_assets/user-story-visual.png`)}
               alt='LogoDesign'
             />
             <p>User story</p>
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/design-system-visual.svg`)}
+              src={require(`../../assets/images/brand_assets/design-system-visual.png`)}
               alt='LogoDesign'
             />
             <p>Design system</p>
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/icons-visual.svg`)}
+              src={require(`../../assets/images/brand_assets/icons-visual.png`)}
               alt='LogoDesign'
             />
             <p>Icons</p>

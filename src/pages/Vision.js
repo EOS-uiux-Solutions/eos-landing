@@ -1,6 +1,6 @@
 import React from 'react'
 import Navigation from '../components/Navigation'
-import FooterComponent from '../components/contributing-guide/Footer'
+import FooterComponent from '../components/Footer'
 const Vision = () => {
   return (
     <div className='vision-content'>

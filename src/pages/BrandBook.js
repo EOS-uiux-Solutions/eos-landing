@@ -6,7 +6,7 @@ import LogoComponent from '../components/brand-book/Logo'
 import ColorPaletteComponent from '../components/brand-book/ColorPalette'
 import TypographyComponent from '../components/brand-book/Typography'
 import IllustrationsPatternsComponent from '../components/brand-book/IllustrationsPatterns'
-import FooterComponent from '../components/brand-book/Footer'
+import FooterComponent from '../components/Footer'
 import SubBrandComponent from '../components/brand-book/SubBrand'
 const BrandBook = () => {
   return (
@@ -26,7 +26,7 @@ const BrandBook = () => {
             </div>
             <div className='img-wrap'>
               <img
-                src={require(`../assets/images/brand_assets/brand-book-design-right.svg`)}
+                src={require(`../assets/images/brand_assets/brand-book-design-right.png`)}
                 alt='LogoDesign'
               />
             </div>

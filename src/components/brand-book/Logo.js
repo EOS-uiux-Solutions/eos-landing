@@ -23,13 +23,13 @@ const LogoComponent = (scope) => {
         <div className='logos-images'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/eos-logos-sample1.svg`)}
+              src={require(`../../assets/images/brand_assets/eos-logos-sample1.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/eos-logos-sample2.svg`)}
+              src={require(`../../assets/images/brand_assets/eos-logos-sample2.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -39,7 +39,7 @@ const LogoComponent = (scope) => {
         <div className='flex'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/main-logo.svg`)}
+              src={require(`../../assets/images/brand_assets/main-logo.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -47,13 +47,13 @@ const LogoComponent = (scope) => {
         <div className='flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/vertical-logo.svg`)}
+              src={require(`../../assets/images/brand_assets/vertical-logo.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-wordmark.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-wordmark.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -68,7 +68,7 @@ const LogoComponent = (scope) => {
         <div className='flex'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/clear-space-eg-1.svg`)}
+              src={require(`../../assets/images/brand_assets/clear-space-eg-1.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -76,13 +76,13 @@ const LogoComponent = (scope) => {
         <div className='flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/clear-space-eg-2.svg`)}
+              src={require(`../../assets/images/brand_assets/clear-space-eg-2.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/clear-space-eg-3.svg`)}
+              src={require(`../../assets/images/brand_assets/clear-space-eg-3.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -98,13 +98,13 @@ const LogoComponent = (scope) => {
         <div className='sections-row logo-color-section flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/color-logo-eg-1.svg`)}
+              src={require(`../../assets/images/brand_assets/color-logo-eg-1.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/color-logo-eg-2.svg`)}
+              src={require(`../../assets/images/brand_assets/color-logo-eg-2.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -112,13 +112,13 @@ const LogoComponent = (scope) => {
         <div className='sections-row logo-color-section dark flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/color-logo-eg-light-1.svg`)}
+              src={require(`../../assets/images/brand_assets/color-logo-eg-light-1.png`)}
               alt='LogoDesign'
             />
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/color-logo-eg-light-2.svg`)}
+              src={require(`../../assets/images/brand_assets/color-logo-eg-light-2.png`)}
               alt='LogoDesign'
             />
           </div>
@@ -129,21 +129,21 @@ const LogoComponent = (scope) => {
         <div className='flex do-not space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-dont-word-mark-1.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-dont-word-mark-1.png`)}
               alt='LogoDesign'
             />
             <p>Don’t change word mark font</p>
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-dont-word-mark-2.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-dont-word-mark-2.png`)}
               alt='LogoDesign'
             />
             <p>Don’t change word mark color</p>
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-dont-word-mark-3.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-dont-word-mark-3.png`)}
               alt='LogoDesign'
             />
             <p>
@@ -156,7 +156,7 @@ const LogoComponent = (scope) => {
         <div className='flex do-not space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-dont-eg-1.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-dont-eg-1.png`)}
               alt='LogoDesign'
             />
             <p>
@@ -167,14 +167,14 @@ const LogoComponent = (scope) => {
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-dont-eg-2.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-dont-eg-2.png`)}
               alt='LogoDesign'
             />
             <p>Don’t rotate logo</p>
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-dont-eg-3.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-dont-eg-3.png`)}
               alt='LogoDesign'
             />
             <p>
@@ -185,7 +185,7 @@ const LogoComponent = (scope) => {
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/logo-dont-eg-4.svg`)}
+              src={require(`../../assets/images/brand_assets/logo-dont-eg-4.png`)}
               alt='LogoDesign'
             />
             <p>
