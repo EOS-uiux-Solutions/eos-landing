@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from '@reach/router'
-import Logo from '../assets/images/EOS_LOGO.png'
+import Logo from '../assets/images/brand_assets/brand-book-logo.png'
 
 const NavLink = (props) => (
   <Link
@@ -19,12 +19,11 @@ const Navigation = () => {
       <div className='brand'>
         <Link to='/'>
           <img className='logo' src={Logo} alt='' />
-          <span className='brand-text'>Brand book</span>
         </Link>
       </div>
       <nav>
         <NavLink to='/'>Vision</NavLink>
-        <NavLink to='/BrandBook'>Brand book</NavLink>
+        <NavLink to='/BrandBook'>Brand assets</NavLink>
         <NavLink to='/ContributingGuide'>How to contribute</NavLink>
       </nav>
     </header>

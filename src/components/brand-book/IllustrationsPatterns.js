@@ -17,7 +17,7 @@ const IllustrationsPatternsComponent = () => {
         </div>
         <div className='img-wrap'>
           <img
-            src={require(`../../assets/images/brand_assets/illustration.svg`)}
+            src={require(`../../assets/images/brand_assets/illustration.png`)}
             alt='LogoDesign'
           />
         </div>
@@ -26,14 +26,14 @@ const IllustrationsPatternsComponent = () => {
         <div className='illustration-example'>
           <p>Illustration</p>
           <img
-            src={require(`../../assets/images/brand_assets/illustration-1.svg`)}
+            src={require(`../../assets/images/brand_assets/illustration-1.png`)}
             alt='LogoDesign'
           />
         </div>
         <div className='illustration-example'>
           <p>Pattern</p>
           <img
-            src={require(`../../assets/images/brand_assets/patterns.svg`)}
+            src={require(`../../assets/images/brand_assets/patterns.png`)}
             alt='LogoDesign'
           />
         </div>
@@ -72,31 +72,31 @@ const IllustrationsPatternsComponent = () => {
         </ul>
         <div className='img-wrap'>
           <img
-            src={require(`../../assets/images/brand_assets/create-illustrations.svg`)}
+            src={require(`../../assets/images/brand_assets/create-illustrations.png`)}
             alt='LogoDesign'
           />
         </div>
       </div>
       <div className='sections-row'>
         <h2 className='do-not-headeing'>Dont</h2>
-        <div className='logo-example do-not flex'>
+        <div className='do-not flex space-between'>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/do-not-illustrations-1.svg`)}
+              src={require(`../../assets/images/brand_assets/do-not-illustrations-1.png`)}
               alt='LogoDesign'
             />
             <p>Don’t use triangles.</p>
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/do-not-illustrations-2.svg`)}
+              src={require(`../../assets/images/brand_assets/do-not-illustrations-2.png`)}
               alt='LogoDesign'
             />
             <p>No diagonal lines and rotations. </p>
           </div>
           <div className='img-wrap'>
             <img
-              src={require(`../../assets/images/brand_assets/do-not-illustrations-3.svg`)}
+              src={require(`../../assets/images/brand_assets/do-not-illustrations-3.png`)}
               alt='LogoDesign'
             />
             <p>No 3D effects</p>

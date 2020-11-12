@@ -12,10 +12,10 @@ const primaryColorsList = [
     pantone: '185 C'
   },
   {
-    rgb: '26 42 58',
-    hex: '#1A2A3A',
-    cmyk: '88 73 51 55',
-    pantone: '533 C'
+    rgb: '30 59 81',
+    hex: '#1E3B51',
+    cmyk: '91 71 46 38',
+    pantone: '7546 C'
   },
   {
     rgb: '191 192 193',
@@ -39,10 +39,10 @@ const secondaryColorsList = [
     pantone: '1785 C'
   },
   {
-    rgb: '41 71 96',
-    hex: '#294760',
-    cmyk: '88 68 41 28',
-    pantone: '7477 C'
+    rgb: '66 115 155',
+    hex: '#42779B',
+    cmyk: '78 47 24 3',
+    pantone: '7698 C'
   },
   {
     rgb: '238 239 241',
@@ -69,10 +69,10 @@ const secondaryColorsList = [
     pantone: '5395 C'
   },
   {
-    rgb: '170 170 170',
-    hex: '#aaaaaa',
-    cmyk: '0 0 0 40',
-    pantone: 'Cool Gray 6 C'
+    rgb: '126 127 127',
+    hex: '#7e7f7f',
+    cmyk: '0 0 0 61',
+    pantone: 'Cool Gray 9 C'
   }
 ]
 

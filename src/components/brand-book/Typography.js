@@ -15,7 +15,7 @@ const TypographyComponent = () => {
         </div>
         <div className='img-wrap'>
           <img
-            src={require(`../../assets/images/brand_assets/typography.svg`)}
+            src={require(`../../assets/images/brand_assets/typography.png`)}
             alt='LogoDesign'
           />
         </div>
