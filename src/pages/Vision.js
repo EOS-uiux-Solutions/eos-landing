@@ -11,7 +11,10 @@ const Vision = () => {
           name='description'
           content='We want to reshape the enterprise and open source worlds with applications people love to use. Our mission is to empower creativity by making UX and UI easily accessible to designers and developers.'
         />
-        <meta name='keywords' content='' />
+        <meta
+          name='keywords'
+          content='open source, design community, ux community, open source community, ux research tools, ux power tools, ux tools'
+        />
       </Helmet>
 
       <div className='vision-content'>

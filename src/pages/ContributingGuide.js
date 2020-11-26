@@ -15,7 +15,10 @@ const ContributingGuide = () => {
           name='description'
           content='We want to make it as easy as possible for users to become EOS contributors, so we’ve created this contribution guide to help you get started.'
         />
-        <meta name='keywords' content='' />
+        <meta
+          name='keywords'
+          content='open source, design community, ux community, open source community, ux research tools, ux power tools, ux tools'
+        />
       </Helmet>
       <div className='contribute-page'>
         <Navigation />

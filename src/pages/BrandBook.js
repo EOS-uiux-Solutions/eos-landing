@@ -17,7 +17,10 @@ const BrandBook = () => {
           name='description'
           content='In this page you will find the building elements of our brand’s visual identity. We want to make sure that our brand’s mission, image, and core values are presented consistently.'
         />
-        <meta name='keywords' content='' />
+        <meta
+          name='keywords'
+          content='brand, brand book, brand guidelines, style guide, brand identity, brand identity design, brand visual identity, brand identity system'
+        />
       </Helmet>
       <Navigation />
       <MainMenu />
