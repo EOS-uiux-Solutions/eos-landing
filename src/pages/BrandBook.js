@@ -1,7 +1,7 @@
 import React from 'react'
+import { Helmet } from 'react-helmet'
 import Navigation from '../components/Navigation'
 import MainMenu from '../components/MainMenu'
-
 import LogoComponent from '../components/brand-book/Logo'
 import ColorPaletteComponent from '../components/brand-book/ColorPalette'
 import TypographyComponent from '../components/brand-book/Typography'
@@ -11,6 +11,17 @@ import SubBrandComponent from '../components/brand-book/SubBrand'
 const BrandBook = () => {
   return (
     <div>
+      <Helmet>
+        <title>Brand assets | EOS Brand Book</title>
+        <meta
+          name='description'
+          content='In this page you will find the building elements of our brand’s visual identity. We want to make sure that our brand’s mission, image, and core values are presented consistently.'
+        />
+        <meta
+          name='keywords'
+          content='brand, brand book, brand guidelines, style guide, brand identity, brand identity design, brand visual identity, brand identity system'
+        />
+      </Helmet>
       <Navigation />
       <MainMenu />
       <div className='content'>
