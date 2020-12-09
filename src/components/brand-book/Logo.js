@@ -13,7 +13,7 @@ const LogoComponent = (scope) => {
           </p>
           <a
             className='btn btn-primary'
-            href='https://gitlab.com/SUSE-UIUX/eos-backup/-/tree/master/eos-website-design/Assets/logo'
+            href='https://gitlab.com/SUSE-UIUX/eos-backup/-/archive/master/eos-backup-master.zip?path=eos-website-design/Assets/logo'
             target='_blank'
             rel='noopener noreferrer'
           >
