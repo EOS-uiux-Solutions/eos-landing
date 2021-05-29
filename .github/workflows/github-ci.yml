@@ -1,0 +1,45 @@
+name: Deploy pages
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build:
+    # The type of runner that the job will run on
+    name: Run Lint and Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 14
+        uses: actions/setup-node@v1
+        with:
+          # no support for lts as of now with github actions.
+          # issue link : https://github.com/actions/setup-node/issues/26
+          node-version: '14'
+
+      - name: Npm install
+        run: npm i
+
+      - name: Run lint JS
+        run: npm run test:js
+
+      - name: Run lint CSS
+        run: npm run test:sass
+
+      - name: Run build
+        run: npm run build
+
+      - name: Deploy to github pages
+        if: ${{ github.event_name == 'push' }}
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
+          #without preserve it only builds if you have untracked files
+          PRESERVE: true
+          # github user name and email shows up in the logs,
+          # so it would be better to make it silent.
+          SILENT: true
