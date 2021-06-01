@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <g id="Group_61" data-name="Group 61" transform="translate(-450 -950)">
+    <g id="Group_58" data-name="Group 58">
+      <line id="Line_73" data-name="Line 73" y1="125.499" transform="translate(574.691 1074.501)" fill="none" stroke="#1a2a3a" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_74" data-name="Line 74" y1="112.5" transform="translate(624.82 1091.132)" fill="none" stroke="#1a2a3a" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <rect id="Rectangle_1980" data-name="Rectangle 1980" width="75" height="37.5" transform="translate(525 1212.5)" fill="#f4455a"/>
+    <rect id="Rectangle_1981" data-name="Rectangle 1981" width="75" height="37.5" transform="translate(600 1212.5)" fill="#1a2a3a"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="12.5" cy="12.5" r="12.5" transform="translate(612.32 1087.001)" fill="#ef0b1e"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="12.5" cy="12.5" r="12.5" transform="translate(562.191 1062.001)" fill="#1a2a3a"/>
+    <rect id="Rectangle_1982" data-name="Rectangle 1982" width="25" height="25" transform="translate(550 1275)" fill="#1a2a3a"/>
+    <path id="Rectangle_1983" data-name="Rectangle 1983" d="M6.25,0H25a0,0,0,0,1,0,0V18.75A6.25,6.25,0,0,1,18.75,25H0a0,0,0,0,1,0,0V6.25A6.25,6.25,0,0,1,6.25,0Z" transform="translate(575 1275)" fill="#00ccd1"/>
+    <path id="Rectangle_1984" data-name="Rectangle 1984" d="M0,0H12.5A12.5,12.5,0,0,1,25,12.5v0A12.5,12.5,0,0,1,12.5,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(600 1300)" fill="#f4455a"/>
+    <rect id="Rectangle_1985" data-name="Rectangle 1985" width="25" height="25" transform="translate(600 1275)" fill="#00ccd1"/>
+    <rect id="Rectangle_1986" data-name="Rectangle 1986" width="25" height="25" transform="translate(575 1300)" fill="#ef0b1e"/>
+    <rect id="Rectangle_1987" data-name="Rectangle 1987" width="25" height="25" transform="translate(625 1300)" fill="#1a2a3a"/>
+    <rect id="Rectangle_1988" data-name="Rectangle 1988" width="25" height="25" transform="translate(625 1275)" fill="#f4455a"/>
+    <rect id="Rectangle_1989" data-name="Rectangle 1989" width="25" height="25" transform="translate(550 1300)" fill="#ef0b1e"/>
+    <path id="Rectangle_1990" data-name="Rectangle 1990" d="M0,0H25a0,0,0,0,1,0,0V25a0,0,0,0,1,0,0h0A25,25,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(525 1300)" fill="#ef0b1e"/>
+    <g id="Group_59" data-name="Group 59">
+      <path id="Path_658" data-name="Path 658" d="M700,1100a100,100,0,0,0-100-100v100Z" fill="none"/>
+      <path id="Path_659" data-name="Path 659" d="M600,1200a100,100,0,0,0,100-100H600Z" fill="none"/>
+      <path id="Path_660" data-name="Path 660" d="M500,1100H600V1000A100,100,0,0,0,500,1100Z" fill="none"/>
+      <path id="Path_661" data-name="Path 661" d="M500,1100a100,100,0,0,0,100,100V1100Z" fill="none"/>
+      <path id="Path_662" data-name="Path 662" d="M500,1100H450a150,150,0,0,0,150,150v-50A100,100,0,0,1,500,1100Z" fill="#f4455a"/>
+      <path id="Path_663" data-name="Path 663" d="M600,1000V950a150,150,0,0,0-150,150h50A100,100,0,0,1,600,1000Z" fill="#ef0b1e"/>
+      <path id="Path_664" data-name="Path 664" d="M600,950v50a100,100,0,0,1,100,100h50A150,150,0,0,0,600,950Z" fill="#00ccd1"/>
+      <path id="Path_665" data-name="Path 665" d="M600,1200v50a150,150,0,0,0,150-150H700A100,100,0,0,1,600,1200Z" fill="#1a2a3a"/>
+    </g>
+    <path id="Rectangle_1991" data-name="Rectangle 1991" d="M25,0h0a0,0,0,0,1,0,0V25a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A25,25,0,0,1,25,0Z" transform="translate(525 1275)" fill="#00ccd1"/>
+    <path id="Rectangle_1992" data-name="Rectangle 1992" d="M25,0h0a0,0,0,0,1,0,0V25a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A25,25,0,0,1,25,0Z" transform="translate(675 1325) rotate(-180)" fill="#f4455a"/>
+    <path id="Rectangle_1993" data-name="Rectangle 1993" d="M0,0H25a0,0,0,0,1,0,0V25a0,0,0,0,1,0,0h0A25,25,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(675 1300) rotate(-180)" fill="#f4455a"/>
+    <g id="Group_60" data-name="Group 60">
+      <path id="Path_666" data-name="Path 666" d="M550,1350a50,50,0,0,0,50,50v-50Z" fill="#ef0b1e"/>
+      <path id="Path_667" data-name="Path 667" d="M600,1350v50a50,50,0,0,0,50-50Z" fill="#f4455a"/>
+    </g>
+  </g>
+</svg>

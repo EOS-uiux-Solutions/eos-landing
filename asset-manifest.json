@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c57bf9e2.chunk.css",
+    "main.js": "/static/js/main.8dd2972d.chunk.js",
+    "main.js.map": "/static/js/main.8dd2972d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.413f2989.js",
+    "runtime-main.js.map": "/static/js/runtime-main.413f2989.js.map",
+    "static/js/2.238929fd.chunk.js": "/static/js/2.238929fd.chunk.js",
+    "static/js/2.238929fd.chunk.js.map": "/static/js/2.238929fd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4e7311b1a15cb63c17288e3754587848.js": "/precache-manifest.4e7311b1a15cb63c17288e3754587848.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c57bf9e2.chunk.css.map": "/static/css/main.c57bf9e2.chunk.css.map",
+    "static/js/2.238929fd.chunk.js.LICENSE.txt": "/static/js/2.238929fd.chunk.js.LICENSE.txt",
+    "static/media/brand-book-bg.svg": "/static/media/brand-book-bg.32fedeab.svg",
+    "static/media/clear-space-eg-1.png": "/static/media/clear-space-eg-1.c40c3ce9.png",
+    "static/media/clear-space-eg-2.png": "/static/media/clear-space-eg-2.67235ed6.png",
+    "static/media/create-illustrations.png": "/static/media/create-illustrations.3eb4d150.png",
+    "static/media/designing.svg": "/static/media/designing.2fc18ae6.svg",
+    "static/media/development.svg": "/static/media/development.2f7fa12b.svg",
+    "static/media/divider.svg": "/static/media/divider.8a75c20b.svg",
+    "static/media/do-not-illustrations-2.png": "/static/media/do-not-illustrations-2.aae21f5b.png",
+    "static/media/documentation.svg": "/static/media/documentation.36e8ea61.svg",
+    "static/media/eos-logo-small.svg": "/static/media/eos-logo-small.47189657.svg",
+    "static/media/header-image.svg": "/static/media/header-image.eb7be7a9.svg",
+    "static/media/illustration-1.png": "/static/media/illustration-1.069fde47.png",
+    "static/media/illustration.png": "/static/media/illustration.7be52c14.png",
+    "static/media/main-logo.png": "/static/media/main-logo.7786087e.png",
+    "static/media/mission.svg": "/static/media/mission.c5bb1bff.svg",
+    "static/media/patterns.png": "/static/media/patterns.d9401ec8.png",
+    "static/media/typography.png": "/static/media/typography.e9185de5.png",
+    "static/media/vertical-logo.png": "/static/media/vertical-logo.2d6edf08.png",
+    "static/media/vision.svg": "/static/media/vision.4668a3e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.413f2989.js",
+    "static/js/2.238929fd.chunk.js",
+    "static/css/main.c57bf9e2.chunk.css",
+    "static/js/main.8dd2972d.chunk.js"
+  ]
+}
