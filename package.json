@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "The main page of EOS UX/UI Solutions.",
   "private": false,
-  "homepage": "https://brand.eosdesignsystem.com/",
+  "homepage": "https://newlanding.eosdesignsystem.com/",
   "dependencies": {
     "@reach/router": "^1.2.1",
     "@testing-library/jest-dom": "^5.5.0",
